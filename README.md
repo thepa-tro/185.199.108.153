@@ -1,1 +1,0 @@
-The Subdomain is hijacked!
